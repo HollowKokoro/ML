@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec77f505-7ec0-4d99-9142-0b6746de849e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ML.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ML.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../iit_ml/4/LinearRegression/linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../iit_ml/4/LinearRegression/linear_regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../iit_ml/DZ_3.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../iit_ml/DZ_3.1.ipynb" afterDir="false" />
     </list>
@@ -32,7 +32,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/linear_regression.ipynb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec77f505-7ec0-4d99-9142-0b6746de849e" name="Changes" comment="" />
+      <created>1635934147558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635934147558</updated>
+      <workItem from="1635934148956" duration="51000" />
+      <workItem from="1635934213058" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>
